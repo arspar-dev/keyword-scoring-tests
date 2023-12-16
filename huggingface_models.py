@@ -2,7 +2,7 @@ import requests
 from time import sleep
 import sys
 
-HF_KEY = "YOUR_API_KEY"
+HF_KEY = "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"
 
 headers = {"Authorization": f"Bearer {HF_KEY}"}
 
